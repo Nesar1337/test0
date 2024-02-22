@@ -1,0 +1,193 @@
+h2.header {
+	font-size: 40px;
+}
+h3.header {
+	font-size: 30px;
+}
+i.eee {
+	color: red;
+}
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+#elem1 {
+	color: red;
+}
+#elem2 {
+	color: green;
+}
+#elem3 {
+	color: blue;
+}
+
+#elem li.text {
+	color: blue;
+}
+#block h1, #block h2 {
+	text-align: center;
+	font-size: 30px;
+}
+#block h1, #block h2 {
+	text-align: center;
+}
+
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+
+.eee h2.zzz, .xxx {
+	text-align: center;
+}
+
+.fff h2.bbb {
+	text-align: center;
+}
+
+p {
+	color: orange;
+}
+h1 {
+	color: green;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	color: red;
+}
+h4 {
+	color: #ff0000;
+}
+h5 {
+	color: rgb(255, 236, 114);
+}
+td {
+	width: 200px;
+	height: 20px;
+}
+h1 {
+	text-align: right;
+}
+h2 {
+	text-align: center;
+	width: 300px;
+}
+th {
+	text-align: left;
+	font-weight: normal;
+}
+td {
+	text-align: center;
+	font-weight: bold;
+}
+table {
+	width: 500px;
+	height: 300px;
+}
+p {
+	text-align: justify;
+	width: 300px;
+}
+h2 {
+	font-weight: normal;
+}
+p {
+	font-weight: bold;
+}
+p {
+	font-style: italic;
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+h2 {
+	font-size: 40px;
+	font-weight: bold;
+}
+p {
+	font-size: 30px;
+}
+p {
+	font-family: "Comic Sans MS";
+}
+p {
+	font-size: 20px;
+	line-height: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	font: 13px/20px Times New Roman;
+}
+p {
+	font: bold red 40px/300px Arial;
+}
+p {
+	font: bold italic 40px/50px/60px Arial;
+}
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	text-decoration: underline;
+}
+p {
+	text-decoration: overline;
+	color: red;
+}
+p {
+	text-decoration: line-through;
+	color: green;
+}
+a {
+	text-decoration: none;
+}
+p {
+	color: red;
+}
+i {
+	color: blue;
+}
+i {
+	font-size: 30px;
+}
+ul {
+	font-size: 20px;
+}
+li {
+	color: red;
+	font-weight: bold;
+}
+h1, h2, h3 {
+	text-align: center;
+}
+p i {
+	color: red;
+}
+.eee {
+	color: green;
+}
+.zzz {
+	color: red;
+}
+.red {
+	color: red;
+}
